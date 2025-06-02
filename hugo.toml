@@ -1,0 +1,7 @@
+baseURL = 'https://stackwraith.io/'
+languageCode = 'en-us'
+title = 'Stack Wraith'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
