@@ -5,7 +5,7 @@ theme = 'hugo-theme-m10c'
 
 [params]
     author = 'StackWraith'
-    desciption = 'Learn by doing; refine through experience'
+    description = 'Learn by doing; refine through experience'
     menu_item_separator = " - "
       # Default theme
     [params.style]
