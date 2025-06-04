@@ -1,6 +1,19 @@
 baseURL = 'https://stackwraith.io/'
 languageCode = 'en-us'
 title = 'Stack Wraith'
+theme = 'hugo-theme-m10c'
+
+[params]
+    author = 'StackWraith'
+    desciption = 'Learn by doing; refine through experience'
+    menu_item_separator = " - "
+      # Default theme
+    [params.style]
+       darkestColor = "#242930"
+       darkColor = "#353b43"
+       lightColor = "#afbac4"
+       lightestColor = "#ffffff"
+       primaryColor = "#57cc8a"
 
 [caches]
   [caches.images]
